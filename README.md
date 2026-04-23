@@ -19,7 +19,7 @@ This system simulates a real-world data pipeline used by modern e-commerce compa
 
 ## 🏗️ System Architecture
 
-![E-Commerce Analytics Architecture](./architecture.png)
+![E-Commerce Analytics Architecture](./architecture.webp)
 
 ---
 
